@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: nadezhnye-kazino-s-licenziey.github.io
+Sitemap: https://nadezhnye-kazino-s-licenziey.github.io/sitemap.xml
